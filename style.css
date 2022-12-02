@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,500;1,700&family=Roboto+Mono:ital,wght@1,700&display=swap');
+* {
+
+outline: 0px;
+padding: 0px;
+margin: 0px;
+font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+height: 100vh;
+background-image: linear-gradient(rgb(36, 157, 238), rgb(41, 87, 88));
+
+
+}
+
+#titulo {
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+}
+
+#container {
+color: black;
+background-color: rgba(255, 255, 255, 0.911);
+width: 400px;
+border-radius: 5px;
+box-shadow: 5px 5px 10px black;
+margin: auto;
+padding: 20px;
+}
+
+.line {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    border: 1px solid #000;
+}
+
+.desc {
+
+    text-align: center;
+
+}
+
+#bttContar {
+
+width: 80px;
+cursor: pointer;
+margin-left: 157px;
+
+}
+
+#resposta {
+font-size: 12px;
+margin-top: 20px;
+}
+
+#creditos {
+font-size: 10px;
+color: white;
+text-align: center;
+margin-top: 20px;
+
+}
+    
